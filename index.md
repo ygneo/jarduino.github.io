@@ -1,3 +1,7 @@
+---
+title: Blogging Like a Hacker
+---
+
 ## Welcome to GitHub Pages
 
 TEST
